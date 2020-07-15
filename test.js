@@ -1,5 +1,6 @@
 const object = {
     name: 'Scout',
     age: 7,
-    dog: true
+    dog: true,
+    type: 'Poodle'
 };
