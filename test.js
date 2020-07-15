@@ -1,6 +1,6 @@
 // Bad git diff - no trailing comma 
-const object = {
+const myDog = {
     name: 'Scout',
     age: 7,
-    dog: true
+    cute: true
 };
