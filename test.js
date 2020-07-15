@@ -1,6 +1,6 @@
-// git diff - trailing comma!
+// git diff - no trailing comma!
 const myDog = {
     name: 'Scout',
     age: 7,
-    cute: true,
+    cute: true
 };
